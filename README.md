@@ -27,11 +27,11 @@ But I am now falling in love with Rust and TypeScript.
 
 <table>
 <tr>
+<td><img style="height: 90px; width: 90px" src="./img/labview.svg" alt="LabVIEW icon" /></td>
 <td><img style="height: 90px; width: 90px" src="./img/rust.svg" alt="Rust icon" /></td>
 <td><img style="height: 90px; width: 90px" src="./img/ts.svg" alt="Typescript icon" /></td>
 <td><img style="height: 90px; width: 90px" src="./img/react.svg" alt="React icon" /></td>
 <td><img style="height: 90px; width: 90px" src="./img/nodejs.svg" alt="Node.js icon" /></td>
-<td><img style="height: 90px; width: 90px" src="./img/labview.svg" alt="LabVIEW icon" /></td>
 </tr>
 </table>
 
