@@ -33,7 +33,7 @@ But I am now falling in love with Rust and TypeScript.
 <td><img style="height: 90px; width: 90px" src="./img/react.svg" alt="React icon" /></td>
 <td><img style="height: 90px; width: 90px" src="./img/nodejs.svg" alt="Node.js icon" /></td>
 <td><img style="height: 90px; width: 90px" src="./img/python.svg" alt="Python icon" /></td>
-<td><img style="height: 90px; width: 90px" src="./img/tailwind.svg" alt="Tailwind icon" /></td>
+<!-- <td><img style="height: 90px; width: 90px" src="./img/tailwind.svg" alt="Tailwind icon" /></td> -->
 </tr>
 </table>
 
