@@ -2,7 +2,7 @@
 
 ## Hi, I'm James - Welcome to my GitHub Profile
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jamessizeland) [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-sizeland-02530256/)](https://www.linkedin.com/in/james-sizeland-02530256/) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jamessizeland) [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-sizeland-02530256/)](https://www.linkedin.com/in/james-sizeland-02530256/)
 
 ---
 
