@@ -32,7 +32,7 @@ I design and build high-fidelity prototype products, using Embedded Rust, TypeSc
 | --- | --- | --- |
 | Chase Me | Arcade game written in [Bevy](https://bevyengine.org/) game engine.  Learning about game loops and Entity Component System models. | [repo](https://github.com/jamessizeland/bevy-chase-me-game), [play](https://jamessizeland.github.io/bevy-chase-me-game/) |
 | Chess App | Written in the [Tauri](https://tauri.app/) cross-platform app framework. | [repo](https://github.com/jamessizeland/tauri-chess) |
-| BLE Gamepad | Async Embedded Rust project with [Embassy](https://github.com/embassy-rs/embassy) and [TrouBLE](https://github.com/embassy-rs/trouble). | [repo](https://github.com/jamessizeland/Rust-BLE-embedded-gamepad) |
+| BLE Gamepad | Async Embedded Rust project with [Embassy](https://github.com/embassy-rs/embassy) and [TrouBLE](https://github.com/embassy-rs/trouble). | [repo](https://github.com/jamessizeland/microbit-ble-gamepad) |
 
 
 ---
