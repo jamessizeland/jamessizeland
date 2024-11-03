@@ -6,7 +6,7 @@
 
 ---
 
-I'm a Physicist turned Fullstack Software [Architect](https://www.credly.com/badges/801c05b2-eac3-44e2-8531-f0cf6c12d972/linked_in_profile) and Technical Lead.  I'm passionate about System Design, Data Capture and [Psychological Safety](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/).
+PhD physicist turned self-taught multi-language full-stack software tech lead. I thrive on solving problems and developing technological and organizational systems, with a people first approach.  I'm passionate about System Design, Data Capture and [Psychological Safety](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/).
 
 <div align="center">
 <a src="https://www.sbjconsultinginc.com/2022/02/11/the-four-stages-of-psychological-safety/" >
@@ -14,11 +14,7 @@ I'm a Physicist turned Fullstack Software [Architect](https://www.credly.com/bad
 </a>
 </div>
 
-I design and build automated test systems, and write & architect LabVIEW (among other things) software for Dyson's product R&D, across multiple categories and countries.
-
-I specialise in cRIO RT & FPGA embedded test solutions along with machine vision and robotic control (Universal Robots are great!!). My test equipment has featured in several Dyson media launches.
-
-But I am now falling in love with Rust and TypeScript.
+I design and build high-fidelity prototype products, using Embedded Rust, TypeScript React and Golang for Dyson's product R&D.  I'm also helping to build an Embedded Rust BLE library, [TrouBLE](https://github.com/embassy-rs/trouble).
 
 ---
 
@@ -27,13 +23,12 @@ But I am now falling in love with Rust and TypeScript.
 
 <table>
 <tr style="display: grid; grid-template-columns: auto auto auto auto auto">
-<td><img style="height: 90px; width: 90px" src="./img/labview.svg" alt="LabVIEW icon" /></td>
 <td><img style="height: 90px; width: 90px" src="./img/rust.svg" alt="Rust icon" /></td>
 <td><img style="height: 90px; width: 90px" src="./img/ts.svg" alt="Typescript icon" /></td>
 <td><img style="height: 90px; width: 90px" src="./img/react.svg" alt="React icon" /></td>
+<td><img style="height: 90px; width: 90px" src="./img/tailwind.svg" alt="Tailwind icon" /></td>
 <td><img style="height: 90px; width: 90px" src="./img/nodejs.svg" alt="Node.js icon" /></td>
 <td><img style="height: 90px; width: 90px" src="./img/python.svg" alt="Python icon" /></td>
-<!-- <td><img style="height: 90px; width: 90px" src="./img/tailwind.svg" alt="Tailwind icon" /></td> -->
 </tr>
 </table>
 
