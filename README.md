@@ -36,6 +36,9 @@ I used to design and build high-fidelity prototype products, using Embedded Rust
 <!-- Github Stats, coding streak, Most used languages analytics-->
 <img src="https://github.pumbas.net/api/contributions/jamessizeland" alt="James Sizeland's Contributions"/>
 <p><img src="https://github-readme-stats.vercel.app/api?username=jamessizeland&theme=gruvbox&show_icons=true&hide=issues,contribs" /></p>
+
+![James's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=jamessizeland&theme=gruvbox)
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamessizeland&exclude_repo=Balena-Flask-React-TypeScript&layout=compact&langs_count=10&theme=gruvbox" /></p>
 
 ---
