@@ -28,18 +28,13 @@ I used to design and build high-fidelity prototype products, using Embedded Rust
 
 ### Personal Projects
 
-| Project | Description | Links |
-| --- | --- | --- |
-| Chase Me | Arcade game written in [Bevy](https://bevyengine.org/) game engine.  Learning about game loops and Entity Component System models. | [repo](https://github.com/jamessizeland/bevy-chase-me-game), [play](https://jamessizeland.github.io/bevy-chase-me-game/) |
-| Chess App | Written in the [Tauri](https://tauri.app/) cross-platform app framework. | [repo](https://github.com/jamessizeland/tauri-chess) |
-| BLE Gamepad | Async Embedded Rust project with [Embassy](https://github.com/embassy-rs/embassy) and [TrouBLE](https://github.com/embassy-rs/trouble). | [repo](https://github.com/jamessizeland/microbit-ble-gamepad) |
-| Can't Hop | [Tauri](https://tauri.app/) cross-platform (mobile-first) game app | [repo](https://github.com/jamessizeland/cant-hop-game) |
+🚀<https://jamessizeland.github.io/>🚀
 
 ---
 
 
 <!-- Github Stats, coding streak, Most used languages analytics-->
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=jamessizeland&theme=gruvbox" width="700"/></p>
+<img src="https://github.pumbas.net/api/contributions/jamessizeland" alt="James Sizeland's Contributions"/>
 <p><img src="https://github-readme-stats.vercel.app/api?username=jamessizeland&theme=gruvbox&show_icons=true&hide=issues,contribs" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamessizeland&exclude_repo=Balena-Flask-React-TypeScript&layout=compact&langs_count=10&theme=gruvbox" /></p>
 
